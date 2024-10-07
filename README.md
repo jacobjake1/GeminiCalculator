@@ -37,7 +37,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://imgur.com/a/kAEy9ig.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **Screen To Gif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
